@@ -7,3 +7,4 @@
 |RoFormer: Enhanced Transformer with Rotary Position Embedding|[URL](https://arxiv.org/abs/2104.09864)|2021|
 |Encoding word order in complex embeddings|[URL](https://arxiv.org/abs/1912.12333)|2019|
 |Conditional Positional Encodings for Vision Transformers|[URL](https://arxiv.org/abs/2102.10882)|2021|
+|Learning to Encode Position for Transformer with Continuous Dynamical Model|[URL](https://arxiv.org/abs/2003.09229)|2020|
