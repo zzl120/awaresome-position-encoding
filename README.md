@@ -9,3 +9,4 @@
 |Conditional Positional Encodings for Vision Transformers|[URL](https://arxiv.org/abs/2102.10882)|2021|
 |Learning to Encode Position for Transformer with Continuous Dynamical Model|[URL](https://arxiv.org/abs/2003.09229)|2020|
 |Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context|[URL](https://arxiv.org/abs/1901.02860)|2019|
+|Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer|[URL](https://arxiv.org/abs/1910.10683)|2019|
